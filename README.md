@@ -5,7 +5,7 @@
 > required: set env `DERP_HOSTNAME` to your domain
 
 ```bash
-docker run -e DERP_DOMAIN=derper.your-domain.com fredliang/derper
+docker run -e DERP_DOMAIN=derper.your-domain.com -p 80:80 -p 443:443 fredliang/derper
 ```
 
 | env           | required | description                                                  | default value     |
