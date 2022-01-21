@@ -1,5 +1,6 @@
 # Derper
 [![docker workflow](https://github.com/fredliang44/derper-docker/actions/workflows/docker-image.yml/badge.svg)](https://hub.docker.com/r/fredliang/derper) 
+[![docker pulls](https://img.shields.io/docker/pulls/fredliang/derper.svg?color=brightgreen)](https://hub.docker.com/r/fredliang/derper) 
 [![platfrom](https://img.shields.io/badge/platform-amd64%20%7C%20arm64-brightgreen)](https://hub.docker.com/r/fredliang/derper/tags)
 
 # Setup
